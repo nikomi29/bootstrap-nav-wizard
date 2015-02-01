@@ -6,6 +6,7 @@
     "Alex Cornejo <acornejo@gmail.com>"
   ],
   "description": "Bootstrap nav wizard extension",
+  "main": "bootstrap-nav-wizard.css",
   "dependencies": {
     "bootstrap": "*"
   },
